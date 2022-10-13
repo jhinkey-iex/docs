@@ -1,8 +1,9 @@
 from pathlib import Path
 
 def main():
-    files = sorted(Path().rglob("*.html"))
+    files = sorted(Path("test").rglob("*.html"))
     for fname in files:
+        print(fname)
         addTag(fname)
     # fname = "developer-tools.html"
     
