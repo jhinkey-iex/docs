@@ -1,6 +1,4 @@
-# IEX Cloud Apperate Documentation 
-
-The Apperate documentation is published to <https://iexcloud.io/documentation/>.
+> **DEPRECATED:** This repository is no longer the source for IEX Cloud Apperate documentation; the documentation source resides in the IEX Cloud Apperate product and is published at <https://iexcloud.io/documentation/>. Documentation requests or issues can be raised to [IEX Cloud Support](https://iexcloud.io/support/).
 
 We write Markdown files that use an expansion syntax called [MyST](https://myst-parser.readthedocs.io/en/latest/intro.html) (Markedly Structured Text). Here are some helpful Markdown MyST articles.
 
